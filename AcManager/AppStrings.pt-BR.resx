@@ -3970,7 +3970,7 @@ Content Manager [url=""/Pages/About/License.xaml|_top""]License[/url]."</value>
     <value>Mostrar curvas na parte de Dirigir</value>
   </data>
   <data name="Settings_Content_PowerAndTorqueCurves" xml:space="preserve">
-    <value>Curvas de Poder e torque:</value>
+    <value>Curvas de potência e torque:</value>
   </data>
   <data name="Settings_Content_FourDigitForYearPostfix" xml:space="preserve">
     <value>Quatro digitos por ano postfix</value>
@@ -4347,7 +4347,7 @@ de qualquer jeito enquanto está esperando pelo disco para pegar os dados, e ter
     <value>Limite para outras sessões</value>
   </data>
   <data name="AcSettings_Python_EnablePythonApps" xml:space="preserve">
-    <value>Ativar apps Phython</value>
+    <value>Ativar apps Python</value>
   </data>
   <data name="AcSettings_Python_KeepDeveloperAppsFlagWithAppsPresets" xml:space="preserve">
     <value>Deixar a bandeira de apps de desenvolvedor com predefinições de apps</value>
@@ -4512,7 +4512,7 @@ de qualquer jeito enquanto está esperando pelo disco para pegar os dados, e ter
     <value>Oficina</value>
   </data>
   <data name="MainWindow_FoundNModUpdates" xml:space="preserve">
-    <value>Encontrado {0} {atuzaliação} para modificações:</value>
+    <value>Encontrado {0} {atualização} para modificações:</value>
   </data>
   <data name="MainWindow_AddDownload_Message" xml:space="preserve">
     <value>Insira a URL para fazer download:</value>
